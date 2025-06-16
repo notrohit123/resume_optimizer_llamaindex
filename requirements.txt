@@ -1,0 +1,11 @@
+streamlit
+python-docx
+PyPDF2
+llama-index
+llama-index-llms-nebius
+llama-index-embeddings-nebius
+openai
+python-dotenv
+pydantic
+llama-index-llms-anthropic
+
