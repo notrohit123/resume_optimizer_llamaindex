@@ -40,7 +40,7 @@ This is a smart AI-powered resume optimization tool built using **Streamlit**, *
 ##  How to Run
 
 ```bash
-git clone https://github.com/your-username/resume_optimizer_llamaindex.git
+git clone https://github.com/notrohit123/resume_optimizer_llamaindex.git
 cd resume_optimizer_llamaindex
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
