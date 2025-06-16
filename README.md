@@ -1,6 +1,6 @@
 # 🚀 Smart Resume Optimizer (with LLM + PDF/DOCX Export)
 
-This is a smart AI-powered resume optimization tool built using **Streamlit**, **LlamaIndex**, and **OpenAI/Anthropic models**. It helps job seekers fine-tune their resumes for any job description—ATS-ready, recruiter-friendly, and personalized.
+This is a smart AI-powered resume optimization tool built using **Streamlit**, **LlamaIndex**, and **OpenAI/Anthropic models**. It helps job seekers fine-tune their resumes for any job description ATS-ready, recruiter-friendly, and personalized.
 
 ### ✨ Features
 
